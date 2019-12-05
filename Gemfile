@@ -14,3 +14,4 @@ gemspec
 # gem "debugger"
 gem "activeadmin", github: "activeadmin"
 gem "devise"
+gem 'select2-rails', git: 'https://github.com/ADikmarov/select2-rails.git'
